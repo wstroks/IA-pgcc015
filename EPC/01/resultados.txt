@@ -1,0 +1,65 @@
+{'pesos_inicial': array([0.83803885, 0.6334875 , 0.43303924, 0.17768471])}
+{'treinamento': 1, 'epocas': 355, 'pesos_final': array([-2.90196115,  1.4301375 ,  2.40144724, -0.67700729])}
+Óleo C1
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C1
+Óleo C2
+Óleo C1
+Óleo C1
+----------------------------------------
+{'pesos_inicial': array([0.52610827, 0.10519225, 0.97485251, 0.81361475])}
+{'treinamento': 2, 'epocas': 442, 'pesos_final': array([-3.09389173,  1.56855225,  2.49551651, -0.73891525])}
+Óleo C1
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C1
+Óleo C2
+Óleo C1
+Óleo C1
+----------------------------------------
+{'pesos_inicial': array([0.18331589, 0.60858237, 0.81549798, 0.07216818])}
+{'treinamento': 3, 'epocas': 397, 'pesos_final': array([-3.07668411,  1.56097637,  2.49052598, -0.73594582])}
+Óleo C1
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C1
+Óleo C2
+Óleo C1
+Óleo C1
+----------------------------------------
+{'pesos_inicial': array([0.3227874 , 0.98176891, 0.83443528, 0.93250347])}
+{'treinamento': 4, 'epocas': 408, 'pesos_final': array([-3.0772126 ,  1.57644491,  2.46800528, -0.73421253])}
+Óleo C1
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C1
+Óleo C2
+Óleo C1
+Óleo C1
+----------------------------------------
+{'pesos_inicial': array([0.90965015, 0.85385765, 0.43431041, 0.73911069])}
+{'treinamento': 5, 'epocas': 438, 'pesos_final': array([-3.09034985,  1.57227765,  2.49930241, -0.73880531])}
+Óleo C1
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C2
+Óleo C1
+Óleo C2
+Óleo C1
+Óleo C1
+----------------------------------------
