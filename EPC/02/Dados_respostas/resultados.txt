@@ -1,0 +1,90 @@
+{'pesos_iniciais': array([0.69988584, 0.45703747, 0.81116829, 0.58643854, 0.87055865]), 'treinamento': 1}
+{'epocas': 920, 'pesos_final': array([-1.81314893,  1.3129172 ,  1.64237534, -0.42765434, -1.17782444]), 'treinamento': 1}
+Válvula A
+Válvula A
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+Válvula B
+Válvula B
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+----------------------------------------
+{'pesos_iniciais': array([0.75251223, 0.85008082, 0.35218881, 0.95241846, 0.14102685]), 'treinamento': 2}
+{'epocas': 930, 'pesos_final': array([-1.81312893,  1.31295453,  1.64241623, -0.42755946, -1.17784671]), 'treinamento': 2}
+Válvula A
+Válvula A
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+Válvula B
+Válvula B
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+----------------------------------------
+{'pesos_iniciais': array([0.78075652, 0.47697923, 0.07060419, 0.39615541, 0.22492951]), 'treinamento': 3}
+{'epocas': 924, 'pesos_final': array([-1.81316557,  1.31289186,  1.6423485 , -0.42772192, -1.17781006]), 'treinamento': 3}
+Válvula A
+Válvula A
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+Válvula B
+Válvula B
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+----------------------------------------
+{'pesos_iniciais': array([0.56590793, 0.46923877, 0.96365174, 0.98127946, 0.50253672]), 'treinamento': 4}
+{'epocas': 916, 'pesos_final': array([-1.81302131,  1.31294188,  1.64236816, -0.42747287, -1.17781151]), 'treinamento': 4}
+Válvula A
+Válvula A
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+Válvula B
+Válvula B
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+----------------------------------------
+{'pesos_iniciais': array([0.49552793, 0.51442006, 0.81773195, 0.34323545, 0.39781447]), 'treinamento': 5}
+{'epocas': 891, 'pesos_final': array([-1.81304262,  1.31287689,  1.64229291, -0.42762406, -1.17776946]), 'treinamento': 5}
+Válvula A
+Válvula A
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+Válvula B
+Válvula B
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+Válvula A
+Válvula A
+Válvula B
+----------------------------------------
