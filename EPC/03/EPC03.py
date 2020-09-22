@@ -21,7 +21,7 @@ y_teste= base_de_test.iloc[:,4:]
 taxa_de_aprendizado = 0.1
 precisao = 10**-6
 beta = 0.5
-a= y_teste.size
+
 def funcao_conversao_matrix_saida(matrix,saidas_possiveis):
     # Iris-setosa, Iris-versicolor, Iris-virginica
     vetor = np.array(matrix)
@@ -47,7 +47,6 @@ def funcao_sigmoid(u, b):
     calculo =(1/(1+(math.exp(-u*b))))
     return calculo
 
-
 def funcao_derivada_sigmoid(u,b):
     calculo = b*funcao_sigmoid(u, b)*(1-(funcao_sigmoid(u, b)))
     return calculo
@@ -69,7 +68,6 @@ def randomizando_matriz(matriz, linha, coluna):
             matriz_rand=np.random.random(1) 
             matriz[i][j]=matriz_rand  
     return matriz;
-
 #https://www.youtube.com/watch?v=FSvD2HT0Zfg&ab_channel=ML4U explicação
 def criando_camada_escondida(entrada,camada_escondida):
     #vale ressaltar que a matrix da camada escondida é numero de hiden e a coluna é o numero de entradas +1 que corresponde ao teta
